@@ -1,0 +1,36 @@
+{
+  "name": "shadow-css-loader",
+  "version": "0.1.0",
+  "description": "Inject css within ShadowDom",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d ../ui-provider-react-pure/webpack-plugins/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bombadillo/shadow-css-loader.git"
+  },
+  "keywords": [
+    "shadow-dom",
+    "react",
+    "styled-components"
+  ],
+  "author": "bombadillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bombadillo/shadow-css-loader/issues"
+  },
+  "homepage": "https://github.com/bombadillo/shadow-css-loader#readme",
+  "dependencies": {
+    "react": "^16.8.4",
+    "styled-components": "^4.1.3",
+    "clean-css": "^4.2.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.3.4",
+    "@babel/plugin-proposal-class-properties": "^7.3.4",
+    "@babel/preset-env": "^7.3.4"
+  }
+}
