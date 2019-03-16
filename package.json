@@ -1,6 +1,6 @@
 {
   "name": "shadow-css-loader",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Inject css within ShadowDom",
   "main": "lib/index.js",
   "scripts": {
