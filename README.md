@@ -1,4 +1,4 @@
-[![npm][npm]][npm-url]
+[![npm version](https://badge.fury.io/js/shadow-css-loader.svg)](https://badge.fury.io/js/shadow-css-loader)
 
 # shadow-css-loader
 
@@ -62,5 +62,3 @@ The tag name of the custom element containing the shadow DOM. The css styles wil
   ]
 }
 ```
-
-[npm-url]: https://npmjs.com/package/shadow-css-loader
