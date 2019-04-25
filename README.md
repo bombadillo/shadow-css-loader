@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/shadow-css-loader.svg)](https://badge.fury.io/js/shadow-css-loader)
+[![install size](https://packagephobia.now.sh/badge?p=shadow-css-loader)](https://packagephobia.now.sh/result?p=shadow-css-loader)
 
 # shadow-css-loader
 
