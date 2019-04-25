@@ -4,6 +4,7 @@
   "description": "Inject css within ShadowDom",
   "main": "lib/index.js",
   "scripts": {
+    "test": "echo \"No test specified\" && exit 0",
     "build": "babel src -d lib"
   },
   "repository": {
