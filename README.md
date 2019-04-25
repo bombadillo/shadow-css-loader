@@ -1,3 +1,5 @@
+[![npm][npm]][npm-url]
+
 # shadow-css-loader
 
 Load css using webpack within a shadow DOM.
@@ -60,3 +62,5 @@ The tag name of the custom element containing the shadow DOM. The css styles wil
   ]
 }
 ```
+
+[npm-url]: https://npmjs.com/package/shadow-css-loader
